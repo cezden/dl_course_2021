@@ -1,4 +1,11 @@
 
+
+# This is just a fork of [tensorchiefs/dl_course_2021](https://github.com/tensorchiefs/dl_course_2021) made for my own personal purposes (learning).
+
+# If somehow you ended up on this page I kindly suggest you to head to the [Original Tensorchiefs' Course](https://tensorchiefs.github.io/dl_course_2021/).
+
+Obviously this is just a copy of the course materials authored by Tensorchiefs - Oliver Dürr, Beate Sick and Elvis Murina, whom I would like to thank for a learning opportunity.
+
 # Deep Learning (CAS machine intelligence, 2021  ) 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2020/tree/master/notebooks) used in the course). 
