@@ -1,12 +1,12 @@
 
 
-# This is just a fork of [tensorchiefs/dl_course_2021](https://github.com/tensorchiefs/dl_course_2021) made for my own personal purposes (learning).
+# This is just a fork of [tensorchiefs/dl_course_2021](https://github.com/tensorchiefs/dl_course_2021) made for my own personal purposes (learning)
 
-# If somehow you ended up on this page I kindly suggest you to head to the [Original Tensorchiefs' Course](https://tensorchiefs.github.io/dl_course_2021/).
+# If somehow you ended up on this page I kindly suggest you to head to the [Original Tensorchiefs' Course](https://tensorchiefs.github.io/dl_course_2021/)
 
 Obviously this is just a copy of the course materials authored by Tensorchiefs - Oliver Dürr, Beate Sick and Elvis Murina, whom I would like to thank for a learning opportunity.
 
-# Deep Learning (CAS machine intelligence, 2021) 
+# Deep Learning (CAS machine intelligence, 2021)
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2020/tree/master/notebooks) used in the course).
 
@@ -54,7 +54,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 | Day  |      Topic and Slides    |      Additional Material    |		Exercises and homework  |
 |:----------------:|:-----------------------|:----------------------------|:--------------------------------------|
-| 1        | Introduction, Fully Connected Networks, Keras [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/01_Introduction.pdf) |[Network Playground](https://playground.tensorflow.org/) |[01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/01_simple_forward_pass.ipynb)<br>[02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
+| 1        | Introduction, Fully Connected Networks, Keras [slides](slides/01_Introduction.pdf) |[Network Playground](https://playground.tensorflow.org/) |[01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/01_simple_forward_pass.ipynb)<br>[02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
 | 2        |Looking back at fcNN, working with loss curves, convolutional neural networks [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/02_CNN.pdf) |[Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)|[03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/03_fcnn_mnist.ipynb)<br>[04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb)<br>[05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/05_cnn_edge_lover.ipynb)<br>[06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)<br>[07_cifar10_norm](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/07_cifar10_norm.ipynb)
 | 3        |Tricks of the trade in CNNs [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/03_CNN.pdf)|[Understanding CNNs](http://cs231n.github.io/understanding-cnn)|[08_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/08_cifar10_tricks.ipynb)<br>[09_1DConv](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/09_1DConv.ipynb)
 | 4        |Details: Backpropagation in DL, MaxLike-Principle [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/04_Details.pdf)| |[10_linreg_tensorflow](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/10_linreg_tensorflow.ipynb)<br>[11_backpropagation](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/11_backpropagation.ipynb)<br>[maxlik](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)
